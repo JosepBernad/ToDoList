@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ToDoList</string>
+    <string name="date_formatter" translatable="false">YYYY-MM-DD HH:MM:SS.SSS</string>
 </resources>
